@@ -24,6 +24,12 @@
     "description": "One of Weber's courses at UNCC was in programming language theory, and for her term project she used Haskell to visualize the Julia set. The name of the project is a portmanteau of the word 'fractal' and 'haskell'. This project gave Weber the valuable opportunity to learn functional programming principles. As someone unfamiliar with functional programming, this was a challenge for Weber, but she quickly began to see why this style is so popular. She leveraged haskell's lazy evaluation to allow for optional parameters, explored parallelism to speed up image generation, and wrote unit tests to practice good software engineering practices in Haskell. If you'd like to see more of the interesting images generated with Fraktell, <a href='https://github.com/c3cuddles/fraktell/tree/master/images'>head to the 'img' directory in her repository</a>"
   },
   {
+    "title": "SealedAir Redirect Flow",
+    "date": "07.2019",
+    "imgUrl": "assets/img/sealedair-redirect-page.png",
+    "description": "During an internship at SealedAir, Weber was tasked with creating a flow guiding a user through a rebrand that included a URI change. Her work resulted in a minimal, easy-to-understand page that informed users of the new logo, company name, and URI. This page was consistent with company design language and immediately familiar to anyone who had already used the SealedAir webapp. After a short delay, the user is automatically taken to the new page. The code is not available, as one of the conditions of her employment was that no code could be removed from company computers. However, <a href='assets/img/sealedair-redirect-page.png'>you may click here to view an enlarged screenshot of the actual production website she created.</a>"
+  },
+  {
     "title": "Open Source Contributions",
     "date": "2.2018 - Present",
     "imgUrl": "assets/img/git-merge.png",
