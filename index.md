@@ -23,7 +23,7 @@
         </div>
         <div onclick="navigateTo('projects')"
              class="centerize-without-fill">
-            Projects
+            Portfolio
         </div>
     </nav>
     <footer class="links center-text slide-top">
